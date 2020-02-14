@@ -1,0 +1,4 @@
+db_connect for mysql-connector 2.2.9
+db_connect1 for mysql-connector-python 8.0.19
+db_connect2 for PyMySQL 0.9.3 
+db_connect2 for home work using mysql-connector-python 8.0.19
